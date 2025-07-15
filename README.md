@@ -1,2 +1,2 @@
 # CoCo-CoT
-# our codes of this work is coming soon.
+# THe source code of our work is coming soon.
